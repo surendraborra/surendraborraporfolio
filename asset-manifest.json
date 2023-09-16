@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/surendraborraporfolio/static/css/main.0c613ab7.css",
+    "main.js": "/surendraborraporfolio/static/js/main.fd4f785e.js",
+    "static/media/lift.png": "/surendraborraporfolio/static/media/lift.c80a5f8b9cb14782f20e.png",
+    "static/media/Surendra.pdf": "/surendraborraporfolio/static/media/Surendra.43d0fb18f2b076643167.pdf",
+    "static/media/about.png": "/surendraborraporfolio/static/media/about.0250db8cfc181becb0f6.png",
+    "static/media/home-bg.jpg": "/surendraborraporfolio/static/media/home-bg.b9d9cdad96d7b90cce7d.jpg",
+    "static/media/home-main.svg": "/surendraborraporfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/pre.svg": "/surendraborraporfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/surendraborraporfolio/index.html",
+    "main.0c613ab7.css.map": "/surendraborraporfolio/static/css/main.0c613ab7.css.map",
+    "main.fd4f785e.js.map": "/surendraborraporfolio/static/js/main.fd4f785e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c613ab7.css",
+    "static/js/main.fd4f785e.js"
+  ]
+}
